@@ -1,0 +1,13 @@
+cmake-build-debug
+cmake-build-debugwindows
+cmake-build-debugwin
+cmake-build-release
+cmake-build-releasewindows
+.vs
+CMakeFiles
+CMakeCache.txt
+.idea
+venv
+tools
+more
+libs
