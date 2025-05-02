@@ -3,6 +3,8 @@ cmake-build-debugwindows
 cmake-build-debugwin
 cmake-build-release
 cmake-build-releasewindows
+cmake-build-release-mingw
+cmake-build-windebug
 .vs
 CMakeFiles
 CMakeCache.txt
